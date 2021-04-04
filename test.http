@@ -1,0 +1,2 @@
+# @name getAllCategories
+GET http://localhost:3000/api/products?_sort=price&_order=asc
